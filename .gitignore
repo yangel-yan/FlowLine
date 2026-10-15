@@ -1,0 +1,7 @@
+local.properties
+*.apk
+**/build/
+**/.gradle/
+**/.cxx/
+unityLibrary/symbols/
+*_BurstDebugInformation_DoNotShip/

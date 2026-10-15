@@ -8,7 +8,7 @@ dependencies {
 }
 
 android {
-    namespace "com.UnityTechnologies.com.unity.template.urpblank"
+    namespace "com.yangel.flowline"
     ndkPath "D:/Software/Unity Editors/6000.3.25f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK"
     ndkVersion "27.2.12479018"
     compileSdk 36
@@ -20,8 +20,8 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.UnityTechnologies.com.unity.template.urpblank"
-        versionName "0.1.0"
+        applicationId "com.yangel.flowline"
+        versionName "1.0.0"
         minSdk 29
         targetSdk 36
         versionCode 1

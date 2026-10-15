@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "processor_revision": "il2cpp-prebuild-v6",
-  "il2cpp_so_sha256": "7866914a968518c2627c6917273b2b82fd1734c603bfc0a26ba4d1cecfeae7f7",
+  "il2cpp_so_sha256": "78d8ecb76cd372208795bd556a76ac895c390b4006bbe5753945b3de61bd6e90",
   "global_metadata_sha256": "47fb4fee3ed9e16d57bbb404c72d393af6e0678793ac5e92478de531eadef715",
   "unity_version": "6000.3.25f1",
   "unity_template_version": "22",
@@ -10,6 +10,7 @@
     "arm64-v8a"
   ],
   "target_sdk": 36,
+  "application_id": "com.yangel.flowline",
   "native_inventory": [
     {
       "name": "libPicoAmbisonicDecoder.so",
@@ -29,7 +30,7 @@
     },
     {
       "name": "libil2cpp.so",
-      "sha256": "7866914a968518c2627c6917273b2b82fd1734c603bfc0a26ba4d1cecfeae7f7"
+      "sha256": "78d8ecb76cd372208795bd556a76ac895c390b4006bbe5753945b3de61bd6e90"
     },
     {
       "name": "libmain.so",
@@ -40,5 +41,5 @@
       "sha256": "db4c14a625d5cc0e8df7ba6fcc15e397a33aa816541bdeba2575c7e50b07a4b8"
     }
   ],
-  "generated_at": "2026-10-15T07:57:57.0989823Z"
+  "generated_at": "2026-10-15T09:44:40.2814992Z"
 }

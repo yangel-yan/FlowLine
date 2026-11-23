@@ -1,0 +1,44 @@
+app:
+  id: "7695994290714984511"
+  name: FlowLine
+  slogan: 一款面向 PICO XR 的单人沉浸式滑雪游戏
+  description: |-
+    
+    在雪山中压刃、蓄力、起跳与抓板，用连续动作维持 FLOW，完成属于自己的高速滑行路线。
+
+    《FLOWLINE》是一款面向 PICO XR 的单人沉浸式滑雪游戏。玩家以第三人称视角穿越高山、雪松林和冰川雪道，通过压刃转向、蓄力起跳、空中抓板和稳定落地积累 FLOW，在旗门、竞速与自由技巧挑战中刷新个人最佳成绩。
+
+    ## 核心特色
+
+    - 六条程序化雪山路线，覆盖高山、森林与冰川主题。
+    - FLOW、旗门竞速、自由滑行三种玩法模式。
+    - 压刃、蓄力、起跳、抓板、旋转、栏杆和连击评分。
+    - 奖牌、路线解锁、服装与滑板外观成长。
+    - 本地个人最佳轨迹回放与成绩记录。
+    - 第三人称舒适视角，支持坐姿、站姿和多档舒适设置。
+    - 左右手柄射线菜单与中英文界面。
+  tags:
+    - 其他
+  category: game
+  icon: uri:tos-cn-i-1f2op84boi/f1be03ed-30ba-44fc-a229-80bce0e2c620.png
+  landscape: uri:tos-cn-i-1f2op84boi/097e535a-4a2a-46e6-bc40-d0f569075707.png
+  detail_images:
+    - uri:tos-cn-i-1f2op84boi/d3eae519-9fb7-4a3f-8988-40504104dac7.png
+    - uri:tos-cn-i-1f2op84boi/fd7aa266-8125-4852-bbd4-e6aa2f3382ff.png
+    - uri:tos-cn-i-1f2op84boi/186b8f5d-cd4f-4042-ac3b-d04a0c37022a.png
+    - uri:tos-cn-i-1f2op84boi/73a231b1-7fa6-4d11-a67b-3e617e267855.png
+    - uri:tos-cn-i-1f2op84boi/75823573-7bd8-4667-adf7-27b165ddd2c9.png
+  videos: []
+version:
+  name: v1.0.2
+  notes: 修复 PICO 上的远山能见度与赛道门框颜色，主菜单新增晨光短挑战首入口。晨光巡航包含粉雪岩门、跨沟跳台、分段计时、个人最佳与幽灵回放，以及压刃和干净落地目标。
+
+build:
+  repo_url: https://github.com/yangel-yan/FlowLine
+  repo_visibility: public
+  tech_stack: unity
+  ai_tool: TRAE
+  ai_model: GPT-5.6 Sol
+  features:
+    - controller_support
+  teammates: []
